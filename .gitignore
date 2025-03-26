@@ -6,3 +6,9 @@ venv/**
 **/binary_scenario/**
 **/subclass_scenario/**
 BreakHis_v1/**
+
+**/training_1_40_binary_cp/**
+**/training_1_40_subclass_cp/**
+
+training_1_40_binary_model.h5
+training_1_40_subclass_model.h5
