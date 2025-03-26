@@ -2,4 +2,7 @@
 
 images/**
 
-venv
+venv/**
+**/binary_scenario/**
+**/subclass_scenario/**
+BreakHis_v1/**
